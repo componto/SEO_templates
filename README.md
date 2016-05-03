@@ -40,5 +40,6 @@ with more information - https://yoast.com/image-seo-alt-tag-and-title-tag-optimi
 -Rel attributes are important and can be used in several ways, more info here http://microformats.org/wiki/existing-rel-values 
 and here http://www.peckingseo.org/understanding-the-rel-attribute-for-organic-seo/
 
-Tip: Invest in Google AdWords at launch as it will in fact boost your SEO ranking, tests have been made that prove that websites subject of adwords campaigns rank better then others which didnt when investment ceases. Life isn't fair, money is :/
+Tip: Invest in Google AdWords at launch as it will in fact boost your SEO ranking, tests have been made that prove that websites
+subject of adwords campaigns rank better then others which didnt when investment ceases. Life isn't fair, money is :/
 ```
