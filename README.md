@@ -7,6 +7,7 @@ Thank you very much!
 
 ## General notes
   Please consider this notes as self experience share of our company's activity in the last years. We will try to update this notes everytime new guidelines are published or when anything changes, if you notice the opposite please let us know (<a href="mailto:info@componto.com">info@componto.com</a>).
+  The initial meta-tags template we use at the start of any tailor-made project can be found in index.html.
 
 ```
 To be succeeded on SEO matters don't forget that the best way to otimize ranking is to give crawlers what they want:)
